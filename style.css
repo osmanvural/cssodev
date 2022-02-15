@@ -1,0 +1,25 @@
+body {
+
+    background-color: darkolivegreen;
+    list-style-position: inside;
+}
+
+.hcolors {
+
+    font-size: 28px;
+    font-style: italic;
+    color: lightyellow;
+}
+
+.text-style{
+
+    font-size: 18px;
+    font-style: italic;
+    color: lightyellow;
+}
+
+p{
+    color: lightyellow;
+    font-style: italic;
+}
+
